@@ -3,7 +3,7 @@
 #
 
 variable "cluster-name" {
-  default = "terraform-eks-demo"
+  default = "fakuz terraform"
   type    = string
 }
 variable "key_pair_name" {
