@@ -47,7 +47,7 @@ resource "aws_security_group" "demo-cluster" {
   }
 
   tags = {
-    Name = "Fakuz-terraform"
+    Name = "terraform-eks-demo"
   }
 }
 
