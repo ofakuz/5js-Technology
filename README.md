@@ -1,15 +1,9 @@
-
-#  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
-
-
-
+### **Email: yfakuade@gmail.com**
 ## Terraform Installation And Setup In AWS EC2 Redhat Instnace.
 ##### Prerequisite
 + AWS Acccount.
 + Create Redhat EC2 Instnace.
-+ Create IAM Role With Required Polocies.
++ Create IAM Role With Required Policies.
    + VPCFullAccess
    + EC2FullAcces
    + S3FullAccess  ..etc
@@ -31,7 +25,7 @@ $ source ~/.bashrc
 ```
 #### Clone terraform scripts
 ``` sh
-$ git clone https://github.com/LandmakTechnology/terraform-eks
+$ git clone https://github.com/5js-Technology/terraform-eks
 $ cd Terraform_Scripts
 ```
 #### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
